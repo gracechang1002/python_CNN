@@ -5,4 +5,5 @@
 及「機車」，每類皆有200張圖片，將收集來的圖片分為600張為訓練資料，200張為測試資料<br>
 ，經由固定的結構結合4種不同參數的卷積式網路做分類並分析其評估結果。
 
+# 資料集合
 ![image](https://github.com/gracechang1002/simple_CNN/blob/master/data.png)
