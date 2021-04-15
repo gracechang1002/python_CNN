@@ -1,4 +1,4 @@
-# Simple_CNN
+# Python_CNN
 使用Python製作CNN對四種交通公具做訓練及辨識
 
 ## 問題描述
