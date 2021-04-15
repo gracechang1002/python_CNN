@@ -55,8 +55,6 @@ pred1 = classifier.predict_generator(test_set,steps = 9.375)
 with open('training_data','wb') as f:
      pickle.dump(classifier, f)
 
-
-
 #測試圖片
 import numpy as np
 import matplotlib.pyplot as plt
